@@ -1,0 +1,205 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.custom-button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+section {
+    padding: 30px 0;
+}
+
+h2,h3{
+    text-align: center;
+    color: #070707;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
+image{
+    align-items: center;
+}
+body {
+    /*background-image: url(img/img4.jpg);*/
+    /*background-color: #111010;*/
+    background: linear-gradient(500deg,#262727,#d296f5,#c2ee7b,#8fd3fa); 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    padding: 100px;
+}
+span{
+    font-size: 40px;
+}
+.image-container {
+    text-align: center;
+    
+}
+/*.card{
+    size: 20px;
+    
+}*/
+.line{
+    text-align: center;
+    font-size: 30px;
+}
+.styled-button {
+    background-color: #0074d9; /* Background color of the button */
+    color: #111010; /* Text color of the button */
+    padding: 10px 20px; /* Padding around the text */
+    border: none; /* Remove the button border */
+    border-radius: 25px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor on hover for user feedback */
+}
+
+.styled-button:hover {
+    background-color: #0056b3; /* Change the background color on hover */
+}
+.new{
+    text-align: center;
+    font-size: x-large;
+}
+.styled-button2 {
+    background-color: #bedaf3; /* Background color of the button */
+    color: #080808; /* Text color of the button */
+    padding: 10px 20px; /* Padding around the text */
+    border: #f38d07; /* Remove the button border */
+    border-radius: 45px; /* Add rounded corners */
+    cursor: pointer; /* Change cursor on hover for user feedback */
+    width: 400px;
+    height: 75px;
+    text-align: center;
+    margin-top: 100px;
+    align-items: center;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.styled-button2:hover {
+    background-color: #f0a0cc; /* Change the background color on hover */
+}
+
+.img4{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 50px;
+}
+.mydiv{
+    text-align: center;
+}
+
+.foot{
+    text-align: left;
+    margin-left: 100px;
+    margin: 10px;
+}
+.new{
+    display:flex;
+    margin: 20px;
+    
+    padding: 20px;
+    margin: 20px;
+}
+.img1{
+    height: 300px;
+    width: 33.33%;
+    background: linear-gradient(315deg,#03a9f4,#ff0058);
+    float: left;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+}
+.img2{
+    height: 300px;
+    width: 33.33%;
+    background: linear-gradient(315deg,#03a9f4,#ff0058);
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+}
+.img3{
+    height: 300px;
+    width: 33.33%;
+    background: linear-gradient(315deg,#03a9f4,#ff0058);
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    float: right;
+}
+.card{
+    background: linear-gradient(315deg,#d38cff,#9550f5,#4252ff,#5d8bfe, #5fb6ff);
+}
+.subtitle{
+    font-size: 30px;
+    text-align: center;
+    color: #070707;
+}
+.signup{
+    color: #faf7f7;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+button{
+    width: 250px;
+    height: 55px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #9550f5;
+}
+.img4{
+   width: 400px;
+   height: 100px;
+   margin-top: 15%;
+}
+.demo{
+    width: 100%;
+    text-align: left;
+}
+h4{
+    text-align: left;
+    color: #c89be4;
+    display: flex;
+    
+}
+.foot {
+    text-align: right;
+}
+footer{
+    color: #ff0058;
+}
+.grad{
+        width: 200px; /* Set the width of the element */
+        height: 200px; /* Set the height of the element */
+        padding: 20px; /* Add some padding to make the content visible */
+        border-image: linear-gradient(to right, #ff5733, #da2400) 30;
+        border-image-slice: 1;
+        text-align: center;
+        font-size: 18px;
+        color: white;
+      
+      
+}
+
+
+
+
